@@ -32,9 +32,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-6wb#ip0z2!i%o*pqxqwu4wmwrn)l_y!dnzo_k=#f*@%ttv2e!o'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['8000-jaxparker-drfapi1-mvskhqqtu82.ws-eu104.gitpod.io']
+ALLOWED_HOSTS = ['8000-jaxparker-drfapi-i8rjgd889iq.ws-eu104.gitpod.io']
 
 
 # Application definition
