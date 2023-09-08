@@ -1,0 +1,2 @@
+import os
+os.environ['CLOUDINARY_URL']="cloudinary://494875452291736:lfNiC1W9mrwpPnkw-elKxWW3Btk@dwvsz0fug"
